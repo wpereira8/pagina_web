@@ -1,0 +1,11 @@
+.titulo {
+    color: #8A2BE2;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.bloco-texto {
+    padding: 0 10%;
+    text-align: justify;
+    text-justify: inter-word;
+}
